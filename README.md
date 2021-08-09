@@ -10,3 +10,6 @@
 
 2. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2
 
+![ảnh](https://user-images.githubusercontent.com/88677251/128760970-53dd95de-56b2-4391-a5aa-4515c68699e3.png)
+
+
